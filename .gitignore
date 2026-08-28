@@ -1,0 +1,34 @@
+# Unreal Engine temporary and generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+.idea/
+.vs/
+.vscode/
+
+# Built configuration files
+# (Опціонально. Якщо хочете ігнорувати локальні налаштування)
+# Config/DefaultEditorPerProjectUserSettings.ini
+
+# Backup files
+*.bak
+*.orig
+
+# Visual Studio files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+DIPLOMNA/Binaries/
+DIPLOMNA/Build/
+DIPLOMNA/DerivedDataCache/
+DIPLOMNA/Intermediate/
+DIPLOMNA/Saved/
+DIPLOMNA/.vs/
+DIPLOMNA/*.sln
